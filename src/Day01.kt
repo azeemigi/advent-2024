@@ -43,7 +43,7 @@ fun main() {
         println("Similarity score: $similarityScore")
         return similarityScore
     }
-    
+
     // Or read a large test input from the `src/Day01_test.txt` file:
     val testInput = readInput("Day01_test")
     println("\nTEST\n----\n")
